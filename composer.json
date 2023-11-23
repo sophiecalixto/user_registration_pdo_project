@@ -12,5 +12,7 @@
             "email": "sophiecalixto2004@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+      "ext-pdo": "*"
+    }
 }
