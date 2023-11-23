@@ -1,0 +1,16 @@
+{
+    "name": "sophiecalixto/user_registration_project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sophiecalixto\\UserRegistrationProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sophie Calixto",
+            "email": "sophiecalixto2004@gmail.com"
+        }
+    ],
+    "require": {}
+}
